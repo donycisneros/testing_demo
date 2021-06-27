@@ -11,6 +11,11 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "author": {
+    "name" : "Dony Cisneros",
+    "email" : "dony.cisne@gmail.com",
+    "url" : "https://www.donycisneros.com/"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
